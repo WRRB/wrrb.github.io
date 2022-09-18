@@ -1,3 +1,5 @@
-## WIM BERCHMANS
+[[archive](archive.html)] [[store](store.html)]
 
-- [archive](archive.html)
+### Wim Berchmans
+
+Hi lorum ipsum.
