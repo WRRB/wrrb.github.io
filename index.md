@@ -1,3 +1,3 @@
 ## WIM BERCHMANS
 
-- [archive](archive.md)
+- [archive](archive.html)
